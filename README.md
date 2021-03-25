@@ -24,11 +24,13 @@ localhost:5002/predictSLA?workers=X&exectime=Y
 
 ### Notebooks
 
+```
 CLASS_SLA-EDA.ipynb -> Exploratory Data Analysis
 CLASS_SLA-data.ipynb -> Training data generation
 CLASS_SLA-model-NN.ipynb -> Neural networks research
 CLASS_SLA-model-regression.ipynb -> Regression models benchmark
 CLASS_SLA-model-classification.ipynb -> Classification models benchmark and final model implementation
+```
 
 More information about the notebooks is detailed in "D4.6 Validation of the Cloud Data Analytics Service Management and Scalability components" in Section 4.2
 
