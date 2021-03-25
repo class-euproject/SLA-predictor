@@ -1,0 +1,10 @@
+Flask==1.1.2
+unicodedata2
+uwsgi
+scipy
+numpy
+pandas
+statsmodels
+scikit-learn==0.20.3
+prometheus_api_client==0.4.2
+
